@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Ble2.qml</file>
+        <file>WaitDialog.qml</file>
+        <file>Styles.qml</file>
+        <file>qmldir</file>
+        <file>1460460700_Light Bulb Off.png</file>
+        <file>1460460764_Light Bulb On.png</file>
+    </qresource>
+</RCC>
